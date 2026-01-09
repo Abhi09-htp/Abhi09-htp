@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Abhishek Mane 👋
 
-<!--
-**Abhi09-htp/Abhi09-htp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer | Backend & Data-Focused
 
-Here are some ideas to get you started:
+I build production-ready web applications with a strong focus on backend systems, APIs, databases, and real-world deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Customer Analytics Platform**  
+  A production analytics system that ingests CSV data, stores it in PostgreSQL, and exposes business metrics via APIs.  
+  **Tech:** Next.js, Node.js, PostgreSQL (Supabase), SQL, Vercel  
+  🔗 https://customer-analytics-platform-brown.vercel.app
+
+- **Customer Engagement Portal**  
+  A full-stack CRUD application demonstrating frontend-backend integration and clean API design.  
+  **Tech:** Next.js, React, PostgreSQL
+
+---
+
+### 🛠 Tech Stack
+- JavaScript / TypeScript  
+- Node.js / Next.js  
+- PostgreSQL / SQL  
+- REST APIs  
+- Git & GitHub  
+- Vercel / Cloud Deployment
+
+---
+
+### 🎯 What I Focus On
+- Backend systems & APIs  
+- Database-driven applications  
+- Clean architecture & production readiness  
+
+📫 **Contact:**  
+- GitHub: https://github.com/Abhi09-htp  
+- LinkedIn: www.linkedin.com/in/abhishek-mane-0033a1327
