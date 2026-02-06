@@ -5,6 +5,30 @@
 I build production-ready web applications with a strong focus on backend systems, APIs, databases, and real-world deployment.
 
 ### 🚀 Featured Projects
+
+** Mini Blogging Platform (Full Stack)**
+A full-stack mini blogging platform where users can sign up, log in, and publish blogs. All blogs are publicly readable, while editing and deletion are restricted to the author.
+
+🔗 Live Demo
+
+Frontend (Netlify): 👉 https://magenta-croquembouche-be4681.netlify.app/
+
+Backend API (Render): 👉 https://mini-blog-backend-n92n.onrender.com/
+
+🧰 Tech Stack Frontend
+
+React (Create React App),Zustand (state management),Custom useApi hook,Fetch API
+
+Backend
+
+Node.js,Express.js
+
+PostgreSQL
+
+JWT Authentication
+
+bcrypt (password hashing)
+
 - **Customer Analytics Platform**  
   A production analytics system that ingests CSV data, stores it in PostgreSQL, and exposes business metrics via APIs.  
   **Tech:** Next.js, Node.js, PostgreSQL (Supabase), SQL, Vercel  
