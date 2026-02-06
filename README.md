@@ -7,6 +7,7 @@ I build production-ready web applications with a strong focus on backend systems
 ### 🚀 Featured Projects
 
 ** Mini Blogging Platform (Full Stack)**
+
 A full-stack mini blogging platform where users can sign up, log in, and publish blogs. All blogs are publicly readable, while editing and deletion are restricted to the author.
 
 🔗 Live Demo
